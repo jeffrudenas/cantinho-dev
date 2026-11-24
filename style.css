@@ -28,7 +28,7 @@ body {
 
 .janela {
     position: absolute;
-    left: 70px;
+    left: 20px;
     top: 60px;
     width: 220px;
     height: 180px;
@@ -46,4 +46,5 @@ body {
     height: 36px;
     background: #f4e6c4;
     border-radius: 50%;
+    box-shadow: 0 0 20px 6px rgba(244, 230, 196, 0.9);
 }
